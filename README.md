@@ -1,5 +1,4 @@
-# classifying-song-genres
-Classify Song Genres from Audio Data
+# Classify Song Genres from Audio Data
 
 Song genres have been classified using Scikit-Learn's decision tree and logistic regression algorithms.
 
