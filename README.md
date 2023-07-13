@@ -1,5 +1,6 @@
-![](https://github.com/mustafagol/classifying-song-genres/blob/1555e163868397d9a4b1b2dab5a706ef225871fc/Classify%20Song%20Genres%20from%20Audio%20Data/music_recom.jpeg)
 These recommendations are so on point! How does this playlist know me so well?
+![](https://github.com/mustafagol/classifying-song-genres/blob/1555e163868397d9a4b1b2dab5a706ef225871fc/Classify%20Song%20Genres%20from%20Audio%20Data/music_recom.jpeg)
+
 
 # Classify Song Genres from Audio Data
 
